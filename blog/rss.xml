@@ -2,7 +2,7 @@
 <rss version="2.0">
     <channel>
         <title>Counterparty Blog</title>
-        <link>https://CounterpartyXCP.github.io/blog</link>
+        <link>https://counterpartyxcp.github.io/blog</link>
         <description>Counterparty Blog</description>
         <lastBuildDate>Sun, 25 Oct 2015 23:29:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
