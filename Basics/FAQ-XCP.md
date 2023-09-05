@@ -27,6 +27,8 @@ Since the BTC on the burn address will never be spendable again, they are consid
 * Full transparency
 * Zero pre-mine
 
+To learn more about how XCP was launched check out [this news post](https://counterparty.io/news/why-proof-of-burn/).
+
 ### Is XCP an alt-coin or competitor to Bitcoin?
 
 No. XCP cannot exist without Bitcoin, as Counterparty extends the basic features of Bitcoin with proof-of-publication, oracle betting, decentralized exchange, automatic escrow, order matching, and smart contracts. 
