@@ -6,7 +6,7 @@ title: General FAQ
 
 Yes. As long as you correctly use the [Counterparty Tooling](https://www.counterparty.io/#explorers), [Counterparty Supported Wallets](https://www.counterparty.io/#wallets) and [Protocol Infrastructure](https://github.com/CounterpartyXCP) that supports the latest version of Counterparty, there’s no risk.
 
-As a general rule of advice, as is with most Bitcoin and cryptocurrency spaces, do NOT share your Counterparty wallet passphrase or any Counterparty address private keys with anyone.
+As a general rule, as is with most Bitcoin and cryptocurrency spaces, do NOT share your Counterparty wallet passphrase or any Counterparty address private keys with anyone.
 
 If you choose to engage in community telegrams or places like X (Twitter) take serious note, nobody that is legitimate will try to direct message you. Be careful!
 
@@ -14,7 +14,7 @@ Never trust, always verify.
 
 Verifying is what the Counterparty protocol, the Counterparty Decentralized Exchange, the extensive Counterparty public blockchain tooling and even Bitcoin itself was created for.
 
-Please ensure that the use-case you are aiming for is legal within your jurisdiction, and seek professional advice when acquiring asset, starting a project, issuing an asset or using any Counterparty functionality.
+Please ensure that the use-case you are aiming for is legal within your jurisdiction, and seek professional advice when acquiring assets, starting a project, issuing an asset or using any Counterparty functionality.
 
 ### Is a 51% attack against Counterparty possible?
 
