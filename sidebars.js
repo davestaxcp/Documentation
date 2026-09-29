@@ -1,8 +1,18 @@
 module.exports = {
     basics: [
-      'basics/what-is-counterparty',
-      'basics/what-is-xcp',
-      'basics/faq',
+  'basics/what-is-counterparty',
+  'basics/what-is-xcp',
+  'basics/what-is-the-history-of-counterparty',
+  'basics/what-is-a-counterparty-block-explorer',
+  'basics/why-bitcoin',
+  'basics/what-is-a-counterparty-asset',
+  'basics/what-is-enhanced-asset-information',
+  'basics/what-is-the-xcp-dex',
+  'basics/what-is-a-counterparty-dispenser',
+  'basics/what-is-an-atomic-swap',
+  'basics/what-is-a-counterparty-fairmint',
+  'basics/what-is-a-counterparty-liquidity-pool',
+  'basics/faq',
     ],
     advanced: [
       'advanced/protocol',
